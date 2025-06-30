@@ -36,11 +36,11 @@ const CardComponent = () => {
       <div className="w-full md:w-1/2 p-4">
         <h2 className="text-2xl font-bold text-gray-800"></h2>
         <p className="mt-6 md:mt-12 text-white md:ml-10">
-          I am Mahidhar Reddy currently a 3rd Year NTU student studying
-          Information Engineering! I enjoy FullStack Web Development and am
+          I am Mahidhar Reddy currently a 4th Year NTU student studying
+          Information Engineering! I enjoy FullStack Development and am
           constantly trying to learn and upgrade my skills! Currently I am
-          interested in Cloud and its infrastructure. Outside of programming I
-          enjoy playing basketball and watching thriller movies!
+          interested in Backend and Cloud and its infrastructure. Outside of
+          programming I enjoy playing basketball and watching thriller movies!
         </p>
       </div>
     </div>
