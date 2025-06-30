@@ -21,7 +21,7 @@ export const projects = [
     image: "/booking.png",
   },
   {
-    title: "Other Projects coming soon!",
+    title: "Patient Management System",
     description:
       "I built this patient management microservice as a practice project to deepen my understanding of microservices architecture, event driven systems, and backend development. The service handles patient data CRUD operations and integrates with other services using gRPC for synchronous communication and Kafka for asynchronous messaging. It follows clean architecture principles with a Spring Boot backend and PostgreSQL database, fully containerized using Docker. This project helped me gain hands on experience with distributed systems, service to service communication, and scalable backend design.",
     link: "https://github.com/mahidhar-reddy09",
